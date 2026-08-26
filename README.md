@@ -1,4 +1,4 @@
-# Project 31: Create Data (POST)
+﻿# Project 31: Create Data (POST)
 
 **Type:** Formative (Practice)
 
@@ -16,19 +16,19 @@ Build forms to create new data.
 
 ## Requirements
 
-- [ ] Create post form: title, content
-- [ ] POST to /api/posts
-- [ ] Update list after successful creation
-- [ ] Validation on frontend
-- [ ] Error handling (401, 400, etc.)
+- [x] Create post form: title, content
+- [x] POST to /api/posts
+- [x] Update list after successful creation
+- [x] Validation on frontend
+- [x] Error handling (401, 400, etc.)
 
 ## Deliverables
 
-- [ ] components/CreatePostForm.jsx
+- [x] components/CreatePostForm.jsx
 
 ## Status
 
-- [ ] Not started
-- [ ] In progress
-- [ ] Complete
-- [ ] Pushed to GitHub
+- [x] Not started
+- [x] In progress
+- [x] Complete
+- [x] Pushed to GitHub
